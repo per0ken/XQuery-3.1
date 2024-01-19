@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<years>
+    <year value="1992" count="1">
+        <month value="5" count="1">
+            <day value="12" count="1"/>
+        </month>
+    </year>
+    <year value="1995" count="3">
+        <month value="1" count="3">
+            <day value="30" count="3"/>
+        </month>
+    </year>
+    <year value="1996" count="3">
+        <month value="9" count="2">
+            <day value="30" count="2"/>
+        </month>
+        <month value="10" count="1">
+            <day value="7" count="1"/>
+        </month>
+    </year>
+    <year value="1997" count="1">
+        <month value="3" count="1">
+            <day value="25" count="1"/>
+        </month>
+    </year>
+    <year value="1999" count="1">
+        <month value="4" count="1">
+            <day value="6" count="1"/>
+        </month>
+    </year>
+    <year value="2000" count="1">
+        <month value="6" count="1">
+            <day value="6" count="1"/>
+        </month>
+    </year>
+    <year value="2001" count="1">
+        <month value="5" count="1">
+            <day value="21" count="1"/>
+        </month>
+    </year>
+    <year value="2002" count="3">
+        <month value="3" count="1">
+            <day value="25" count="1"/>
+        </month>
+        <month value="9" count="2">
+            <day value="24" count="2"/>
+        </month>
+    </year>
+    <year value="2003" count="2">
+        <month value="1" count="1">
+            <day value="13" count="1"/>
+        </month>
+        <month value="11" count="1">
+            <day value="17" count="1"/>
+        </month>
+    </year>
+    <year value="2004" count="1">
+        <month value="8" count="1">
+            <day value="2" count="1"/>
+        </month>
+    </year>
+    <year value="2005" count="8">
+        <month value="1" count="1">
+            <day value="24" count="1"/>
+        </month>
+        <month value="3" count="2">
+            <day value="28" count="2"/>
+        </month>
+        <month value="4" count="3">
+            <day value="25" count="1"/>
+            <day value="26" count="2"/>
+        </month>
+        <month value="5" count="2">
+            <day value="10" count="2"/>
+        </month>
+    </year>
+    <year value="2006" count="7">
+        <month value="2" count="1">
+            <day value="27" count="1"/>
+        </month>
+        <month value="3" count="1">
+            <day value="24" count="1"/>
+        </month>
+        <month value="6" count="1">
+            <day value="19" count="1"/>
+        </month>
+        <month value="7" count="3">
+            <day value="8" count="1"/>
+            <day value="17" count="1"/>
+            <day value="19" count="1"/>
+        </month>
+        <month value="9" count="1">
+            <day value="27" count="1"/>
+        </month>
+    </year>
+    <year value="2007" count="9">
+        <month value="4" count="7">
+            <day value="13" count="1"/>
+            <day value="16" count="3"/>
+            <day value="24" count="2"/>
+            <day value="25" count="1"/>
+        </month>
+        <month value="10" count="2">
+            <day value="1" count="1"/>
+            <day value="3" count="1"/>
+        </month>
+    </year>
+    <year value="2008" count="26">
+        <month value="1" count="2">
+            <day value="7" count="1"/>
+            <day value="21" count="1"/>
+        </month>
+        <month value="2" count="2">
+            <day value="18" count="2"/>
+        </month>
+        <month value="4" count="12">
+            <day value="21" count="3"/>
+            <day value="23" count="9"/>
+        </month>
+        <month value="7" count="1">
+            <day value="8" count="1"/>
+        </month>
+        <month value="8" count="5">
+            <day value="14" count="1"/>
+            <day value="20" count="4"/>
+        </month>
+        <month value="9" count="1">
+            <day value="2" count="1"/>
+        </month>
+        <month value="11" count="3">
+            <day value="12" count="3"/>
+        </month>
+    </year>
+    <year value="2009" count="11">
+        <month value="2" count="1">
+            <day value="25" count="1"/>
+        </month>
+        <month value="3" count="1">
+            <day value="31" count="1"/>
+        </month>
+        <month value="7" count="1">
+            <day value="28" count="1"/>
+        </month>
+        <month value="9" count="7">
+            <day value="11" count="4"/>
+            <day value="15" count="2"/>
+            <day value="30" count="1"/>
+        </month>
+        <month value="10" count="1">
+            <day value="5" count="1"/>
+        </month>
+    </year>
+    <year value="2010" count="9">
+        <month value="3" count="1">
+            <day value="20" count="1"/>
+        </month>
+        <month value="5" count="1">
+            <day value="20" count="1"/>
+        </month>
+        <month value="6" count="4">
+            <day value="1" count="1"/>
+            <day value="14" count="1"/>
+            <day value="17" count="1"/>
+            <day value="29" count="1"/>
+        </month>
+        <month value="7" count="1">
+            <day value="12" count="1"/>
+        </month>
+        <month value="8" count="1">
+            <day value="23" count="1"/>
+        </month>
+        <month value="9" count="1">
+            <day value="20" count="1"/>
+        </month>
+    </year>
+    <year value="2011" count="1">
+        <month value="6" count="1">
+            <day value="21" count="1"/>
+        </month>
+    </year>
+    <year value="2012" count="4">
+        <month value="2" count="1">
+            <day value="25" count="1"/>
+        </month>
+        <month value="7" count="1">
+            <day value="3" count="1"/>
+        </month>
+        <month value="9" count="1">
+            <day value="3" count="1"/>
+        </month>
+        <month value="11" count="1">
+            <day value="19" count="1"/>
+        </month>
+    </year>
+    <year value="2013" count="5">
+        <month value="1" count="1">
+            <day value="20" count="1"/>
+        </month>
+        <month value="5" count="1">
+            <day value="30" count="1"/>
+        </month>
+        <month value="10" count="3">
+            <day value="16" count="3"/>
+        </month>
+    </year>
+    <year value="2014" count="1">
+        <month value="3" count="1">
+            <day value="13" count="1"/>
+        </month>
+    </year>
+    <year value="2015" count="2">
+        <month value="5" count="1">
+            <day value="25" count="1"/>
+        </month>
+        <month value="10" count="1">
+            <day value="30" count="1"/>
+        </month>
+    </year>
+    <year value="2016" count="8">
+        <month value="1" count="1">
+            <day value="8" count="1"/>
+        </month>
+        <month value="5" count="1">
+            <day value="13" count="1"/>
+        </month>
+        <month value="7" count="3">
+            <day value="8" count="3"/>
+        </month>
+        <month value="11" count="3">
+            <day value="4" count="1"/>
+            <day value="18" count="2"/>
+        </month>
+    </year>
+    <year value="2017" count="6">
+        <month value="1" count="1">
+            <day value="7" count="1"/>
+        </month>
+        <month value="5" count="1">
+            <day value="5" count="1"/>
+        </month>
+        <month value="6" count="2">
+            <day value="16" count="1"/>
+            <day value="17" count="1"/>
+        </month>
+        <month value="7" count="1">
+            <day value="21" count="1"/>
+        </month>
+        <month value="8" count="1">
+            <day value="27" count="1"/>
+        </month>
+    </year>
+    <year value="2018" count="9">
+        <month value="2" count="2">
+            <day value="23" count="2"/>
+        </month>
+        <month value="3" count="6">
+            <day value="1" count="2"/>
+            <day value="2" count="1"/>
+            <day value="9" count="1"/>
+            <day value="23" count="2"/>
+        </month>
+        <month value="4" count="1">
+            <day value="27" count="1"/>
+        </month>
+    </year>
+    <year value="2020" count="16">
+        <month value="2" count="3">
+            <day value="21" count="1"/>
+            <day value="28" count="2"/>
+        </month>
+        <month value="3" count="6">
+            <day value="11" count="1"/>
+            <day value="12" count="1"/>
+            <day value="13" count="1"/>
+            <day value="14" count="1"/>
+            <day value="16" count="2"/>
+        </month>
+        <month value="5" count="2">
+            <day value="1" count="1"/>
+            <day value="7" count="1"/>
+        </month>
+        <month value="6" count="2">
+            <day value="22" count="1"/>
+            <day value="27" count="1"/>
+        </month>
+        <month value="10" count="1">
+            <day value="6" count="1"/>
+        </month>
+        <month value="11" count="2">
+            <day value="20" count="2"/>
+        </month>
+    </year>
+    <year value="2021" count="11">
+        <month value="2" count="1">
+            <day value="26" count="1"/>
+        </month>
+        <month value="4" count="1">
+            <day value="30" count="1"/>
+        </month>
+        <month value="6" count="1">
+            <day value="10" count="1"/>
+        </month>
+        <month value="7" count="1">
+            <day value="30" count="1"/>
+        </month>
+        <month value="9" count="4">
+            <day value="3" count="3"/>
+            <day value="24" count="1"/>
+        </month>
+        <month value="10" count="1">
+            <day value="29" count="1"/>
+        </month>
+        <month value="11" count="1">
+            <day value="12" count="1"/>
+        </month>
+        <month value="12" count="1">
+            <day value="3" count="1"/>
+        </month>
+    </year>
+    <year value="2022" count="12">
+        <month value="2" count="1">
+            <day value="4" count="1"/>
+        </month>
+        <month value="3" count="1">
+            <day value="4" count="1"/>
+        </month>
+        <month value="4" count="1">
+            <day value="15" count="1"/>
+        </month>
+        <month value="6" count="8">
+            <day value="24" count="8"/>
+        </month>
+        <month value="12" count="1">
+            <day value="2" count="1"/>
+        </month>
+    </year>
+    <year value="2023" count="5">
+        <month value="3" count="1">
+            <day value="3" count="1"/>
+        </month>
+        <month value="12" count="4">
+            <day value="8" count="4"/>
+        </month>
+    </year>
+</years>

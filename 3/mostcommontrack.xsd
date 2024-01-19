@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    
+    <xs:element name="most-common-tracks">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="title" type="xs:string" maxOccurs="unbounded"/>
+                <xs:element name="count" type="xs:integer"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+</xs:schema>

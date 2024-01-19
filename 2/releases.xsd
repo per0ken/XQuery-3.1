@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    
+    <xs:complexType name="releases">
+        <xs:sequence>
+            <xs:element name="release" type="release" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="release">
+        <xs:sequence>
+            <xs:element name="title" type="xs:string"/>
+            <xs:element name="media" type="media" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="media">
+        <xs:sequence>
+            <xs:element name="format" type="xs:string"/>
+            <xs:element name="tracks" type="tracks"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="tracks">
+        <xs:sequence>
+            <xs:element name="track" type="track" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="track">
+        <xs:sequence>
+            <xs:element name="number" type="xs:string"/>
+            <xs:element name="title" type="xs:string"/>
+            <xs:element name="length" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:element name="releases" type="releases"/>   
+    
+</xs:schema>
